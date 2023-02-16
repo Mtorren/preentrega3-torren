@@ -1,0 +1,65 @@
+.texto1 {
+    align-items: center;
+        display: flex;
+        justify-content: center;
+        font-family: 'Anton', sans-serif;
+
+        font-size: 50px;
+        color: rgb(225, 225, 225);
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Anton', sans-serif;
+
+        font-size: 30px;
+        color: rgb(225, 225, 225);
+}
+
+h2 {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Anton', sans-serif;
+
+        font-size: 40px;
+        color: rgb(225, 225, 225);
+
+}
+
+h3 {
+    font-family: 'Alfa Slab One', cursive;
+
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+        color: rgb(225, 225, 225);
+}
+h4{
+    font-family: 'Alfa Slab One', cursive;
+    ;
+    display: flex;
+    color: rgb(225, 225, 225);
+}
+.listapelu {
+    justify-content: center;
+    
+    display: flex;
+    height: auto;
+    background-image: url("../multimedia/Logopng.png");
+    background-position: 10px;
+    background-position-x: center;
+
+
+}
+
+
+.listaestetica {
+    background-image: url("../multimedia/Logopng.png");
+    background-position: 10px;
+    background-position-x: center;
+
+}

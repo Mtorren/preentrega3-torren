@@ -1,0 +1,86 @@
+nav {
+  align-items: center;
+  background-color: rgba(30, 30, 30, 0.851);
+}
+nav ul {
+  align-items: center;
+}
+nav li {
+  margin-right: 2.5rem;
+  color: silver;
+}
+nav li a {
+  text-decoration: none;
+  color: rgb(246, 246, 246);
+}
+nav li a:hover {
+  color: rgb(86, 85, 85);
+}
+
+.texto1 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-family: "Anton", sans-serif;
+  font-size: 50px;
+  color: rgb(225, 225, 225);
+}
+
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Anton", sans-serif;
+  font-size: 30px;
+  color: rgb(225, 225, 225);
+}
+
+h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Anton", sans-serif;
+  font-size: 40px;
+  color: rgb(225, 225, 225);
+}
+
+h3 {
+  font-family: "Alfa Slab One", cursive;
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  color: rgb(225, 225, 225);
+}
+
+h4 {
+  font-family: "Alfa Slab One", cursive;
+  display: flex;
+  color: rgb(225, 225, 225);
+}
+
+.listapelu {
+  justify-content: center;
+  display: flex;
+  height: auto;
+  background-image: url("../multimedia/Logopng.png");
+  background-position: 10px;
+  background-position-x: center;
+}
+
+.listaestetica {
+  background-image: url("../multimedia/Logopng.png");
+  background-position: 10px;
+  background-position-x: center;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.905);
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  background-color: rgba(30, 30, 30, 0.851);
+}
+
+/*# sourceMappingURL=style.css.map */
